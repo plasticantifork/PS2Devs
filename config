@@ -1,0 +1,8 @@
+[search]
+query:from:planetside2 OR from:RadarX OR from:PS2BillYeatts OR from:BBurnessPS2 OR from:autenil OR from:muldoonx9 OR from:LukeSigmund OR from:AndySites OR from:PS2_Bishop OR from:Sherman_Anim OR from:LordCosine OR from:kerruptor OR from:dbgupdates -#DBGUpdateH1Z1 -#DBGUpdates -filter:retweets
+
+[auth]
+consumer_key:
+consumer_secret:
+access_token:
+access_token_secret:
